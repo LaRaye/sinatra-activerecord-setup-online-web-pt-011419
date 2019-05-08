@@ -13,7 +13,7 @@ group :development do
 	gem 'shotgun'
 	gem 'pry'
 	gem 'tux'
-  gem 'sqlite3', '1.3.13'
+  gem 'sqlite3', '1.3.13' # <--had to version down
 end
     
 group :test do
